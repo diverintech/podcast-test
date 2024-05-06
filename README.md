@@ -21,4 +21,6 @@ You have a chance to hear from people who are not just talking about, but buildi
 ## Developer Info
 - [Apple Helper ](https://help.apple.com/itc/podcasts_connect/#/itcbaf351599)
 - [Linkedin Course ](https://www.linkedin.com/learning/practical-github-actions/creating-a-marketplace-github-action)
+- [Git Hub Actions] (https://docs.github.com/pt/actions)
+- [Repo] (https://github.com/planetoftheweb/podcast-test/tree/main)
 
