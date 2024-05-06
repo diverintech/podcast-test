@@ -17,3 +17,8 @@ You have a chance to hear from people who are not just talking about, but buildi
 - [YouTube Playlist](https://go.raybo.org/tfit-youtube)
 - [Podcast Feed - Audio Only](https://go.raybo.org/tfit-feed-audio)
 - [Episode Newsletter](https://go.raybo.org/tfit-newsletter)
+
+## Developer Info
+- [Apple Helper ](https://help.apple.com/itc/podcasts_connect/#/itcbaf351599)
+- [Linkedin Course ](https://www.linkedin.com/learning/practical-github-actions/creating-a-marketplace-github-action)
+
